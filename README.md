@@ -1,2 +1,2 @@
 # DataFest
-Please review the "Presentation file" for the analysis report
+Please download the "Presentation file" for the analysis report
